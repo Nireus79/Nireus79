@@ -2,7 +2,7 @@ I'm Available for Freelance & Consulting & Code Reviews
 
 Building production-grade AI systems with focus on **multi-agent orchestration**, **RAG systems**, and **LLM optimization**.
 
-## 🎯 Main Project: [**Socrates AI**](https://github.com/Nireus79/Socrates)
+## 🎯 Latest project: [**Socrates AI**](https://github.com/Nireus79/Socrates)
 
 **Socratic Method Tutoring System** - Production-ready framework implementing the Socratic method with Claude AI for collaborative development, multi-agent orchestration, and knowledge management. 8+ modular PyPI packages supporting the ecosystem.
 
