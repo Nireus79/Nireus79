@@ -1,7 +1,10 @@
-I'm Available for Freelance & Consulting
+I'm Available for Freelance & Consulting & Code Reviews
 
-  Building production-grade AI systems with focus on **multi-agent orchestration**, **RAG      
-  systems**, and **LLM optimization**.
+Building production-grade AI systems with focus on **multi-agent orchestration**, **RAG systems**, and **LLM optimization**.
+
+## 🎯 Main Project: [**Socrates AI**](https://github.com/Nireus79/Socrates)
+
+**Socratic Method Tutoring System** - Production-ready framework implementing the Socratic method with Claude AI for collaborative development, multi-agent orchestration, and knowledge management. 8+ modular PyPI packages supporting the ecosystem.
 
   ## 🚀 What I Do
 
@@ -50,6 +53,17 @@ I'm Available for Freelance & Consulting
 
   **Status**: Accepting 2-3 new projects
   **Lead Time**: 1-2 weeks
+
+  ## 🔍 Open for Code Reviews & Feedback
+
+  I'm actively seeking and welcoming:
+  - **Code Reviews** - Architecture, design patterns, code quality feedback
+  - **Bug Reports** - Issues, edge cases, and unexpected behaviors
+  - **Corrections** - Grammar, documentation, or technical inaccuracies
+  - **Suggestions** - Improvements, optimizations, and new feature ideas
+  - **Pull Requests** - Contributions to fix bugs or add features
+
+  This is collaborative development. All feedback is valuable - don't hesitate to open issues or PRs!
 
   ## 📞 Contact
 
