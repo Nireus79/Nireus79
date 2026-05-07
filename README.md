@@ -4,7 +4,7 @@ Building production-grade AI systems with focus on **multi-agent orchestration**
 
 ## 🎯 Latest project: [**Socrates AI v1.2.0**](https://github.com/Nireus79/Socrates)
 
-**Socratic Method Tutoring System** - Production-ready collaborative development platform implementing the Socratic method with Claude AI, multi-agent orchestration, and enterprise-grade knowledge management. 8+ modular PyPI packages supporting the ecosystem.
+**Socratic Method Tutoring System** - Production-ready collaborative development platform implementing the Socratic method with Claude AI, multi-agent orchestration, and enterprise-grade knowledge management. 9+ modular PyPI packages supporting the ecosystem.
 
 ### ✨ v1.2.0 Latest Improvements:
 - ✅ **Code Quality**: All ruff linting checks passing (0 errors, 42 issues fixed)
@@ -24,15 +24,17 @@ Building production-grade AI systems with focus on **multi-agent orchestration**
 - ✅ Architecture consulting
 - ✅ Framework integration (LangChain, Openclaw)
 - ✅ Code quality & production readiness audits
+- ✅ Ethical AI & governance implementation
 
 ## 📦 My Open Source Work
 
-8 production-ready packages (2,300+ tests):
+9 production-ready packages (2,300+ tests):
 
 | Package | Version | Purpose |
 |---------|---------|---------|
 | [socrates-nexus](https://github.com/Nireus79/socrates-nexus) | v0.4.3 | Universal LLM client |
 | [socratic-agents](https://github.com/Nireus79/Socratic-agents) | v0.3.0+ | 19 specialized agents |
+| [socratic-morality](https://github.com/Nireus79/Socratic-morality) | v0.0.4 | Ethical governance & compliance |
 | [socratic-rag](https://github.com/Nireus79/Socratic-rag) | v0.1.0 | Production RAG systems |
 | [socratic-knowledge](https://github.com/Nireus79/Socratic-knowledge) | v0.1.1 | Knowledge management |
 | [socratic-learning](https://github.com/Nireus79/Socratic-learning) | v0.1.0 | Self-improving agents |
@@ -52,6 +54,7 @@ Python • FastAPI • React • LangChain • PostgreSQL • Redis • ChromaDB
 - 2,300+ tests for reliability
 - Production-ready code with 100% passing linting
 - Enterprise security compliance (OWASP Top 10, JWT+MFA, encryption)
+- Ethical AI governance framework (Socratic Morality)
 
 ## 🎯 Recent Achievements
 
