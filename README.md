@@ -36,11 +36,11 @@ Building production-grade AI systems with focus on **multi-agent orchestration**
 | [socratic-agents](https://github.com/Nireus79/Socratic-agents) | v0.3.7 | 19 specialized agents |
 | [socratic-morality](https://github.com/Nireus79/Socratic-morality) | v0.0.4 | Ethical governance & compliance |
 | [socratic-maturity](https://github.com/Nireus79/Socratic-maturity) | v0.2.0 | Tracking System |
-| [socratic-knowledge](https://github.com/Nireus79/Socratic-knowledge) | v0.1.1 | Knowledge management |
-| [socratic-learning](https://github.com/Nireus79/Socratic-learning) | v0.1.0 | Self-improving agents |
-| [socratic-analyzer](https://github.com/Nireus79/Socratic-analyzer) | v0.1.0 | Code analysis |
-| [socratic-conflict](https://github.com/Nireus79/Socratic-conflict) | v0.1.0 | Conflict resolution |
-| [socratic-workflow](https://github.com/Nireus79/Socratic-workflow) | v0.1.0 | Workflow orchestration |
+| [socratic-knowledge](https://github.com/Nireus79/Socratic-knowledge) | v0.1.6 | Knowledge management |
+| [socratic-learning](https://github.com/Nireus79/Socratic-learning) | v0.2.0 | Self-improving agents |
+| [socratic-analyzer](https://github.com/Nireus79/Socratic-analyzer) | v0.1.6 | Code analysis |
+| [socratic-conflict](https://github.com/Nireus79/Socratic-conflict) | v0.1.5 | Conflict resolution |
+| [socratic-workflow](https://github.com/Nireus79/Socratic-workflow) | v0.1.4 | Workflow orchestration |
 | [socratic-performance](https://github.com/Nireus79/Socratic-performance) | v0.2.1 | Performance monitoring and caching utilities for AI systems |
 | [socratic-docs](https://github.com/Nireus79/Socratic-docs) | v0.2.1 | Automated documentation generation |
 
