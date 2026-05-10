@@ -25,6 +25,7 @@ Building production-grade AI systems with focus on **multi-agent orchestration**
 - ✅ Framework integration (LangChain, Openclaw)
 - ✅ Code quality & production readiness audits
 - ✅ Ethical AI & governance implementation
+- ✅ Algorithmic trading strategies research and ml models training
 
 ## 📦 My Open Source Work
 
