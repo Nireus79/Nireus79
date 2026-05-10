@@ -1,3 +1,5 @@
+AI Systems Engineer focused on multi-agent architectures, RAG pipelines, backend infrastructure, and quantitative systems engineering.
+
 I'm Available for Freelance & Consulting & Code Reviews
 
 Building production-grade AI systems with focus on **multi-agent orchestration**, **RAG systems**, and **LLM optimization**.
