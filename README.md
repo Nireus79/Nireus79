@@ -37,7 +37,7 @@ Building production-grade AI systems with focus on **multi-agent orchestration**
 |---------|---------|---------|
 | [socratic-nexus](https://github.com/Nireus79/Socratic-nexus) | v0.4.3 | Universal LLM client |
 | [socratic-agents](https://github.com/Nireus79/Socratic-agents) | v0.3.7 | 19 specialized agents |
-| [socratic-morality](https://github.com/Nireus79/Socratic-morality) | v0.0.4 | Ethical governance & compliance |
+| [socratic-morality](https://github.com/Nireus79/Socratic-morality) | v0.0.6 | Ethical governance & compliance |
 | [socratic-maturity](https://github.com/Nireus79/Socratic-maturity) | v0.2.0 | Tracking System |
 | [socratic-knowledge](https://github.com/Nireus79/Socratic-knowledge) | v0.1.6 | Knowledge management |
 | [socratic-learning](https://github.com/Nireus79/Socratic-learning) | v0.2.0 | Self-improving agents |
