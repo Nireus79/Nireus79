@@ -89,6 +89,30 @@ I'm actively seeking and welcoming:
 
 This is collaborative development. All feedback is valuable - don't hesitate to open issues or PRs!
 
+## 🎯 Open for Projects
+
+### ✅ NOW ACCEPTING 2-3 Projects
+
+**Expertise Areas:**
+- Multi-agent AI systems & orchestration
+- RAG (Retrieval-Augmented Generation) implementation
+- LLM integration & optimization
+- Constitutional AI governance
+- Backend infrastructure & scaling
+
+**Project Scope:** 4-8 weeks
+**Rate:** $35-55/hour (negotiable based on scope)
+**Availability:** Starting immediately
+
+**Examples of projects I take:**
+- Building multi-agent systems with coordinated reasoning
+- Implementing RAG pipelines with semantic search
+- Integrating Claude/OpenAI/Google APIs at scale
+- Setting up ethical AI governance frameworks
+- Architecture consulting for AI systems
+
+📧 [Get in touch](mailto:Nireus79@proton.me) to discuss your project
+
 ## 📞 Contact
 
 📧 **Email**: Nireus79@proton.me
