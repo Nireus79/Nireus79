@@ -5,7 +5,7 @@ I don't care and, even more, you don't care about a fake formal cover letter, ta
 The fact is, I want to work.
 
 I am 45, self taught programmer and I have a family to support.
-That's my motivation and it's not weak.
+That's my drive and it's not weak.
 
 Here is my latest project https://github.com/Nireus79/Socrates
 There you can see my skills, methods, experience and way of thinking.
