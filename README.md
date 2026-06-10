@@ -1,19 +1,3 @@
-Honesty is one of the few things I managed to keep as part of my dignity, during the ongoing Greek crisis.
-So let's be honest and not waste each other's time.
-
-I don't care and, even more, you don't care about a fake formal cover letter, talking about how much and why I want to work to {your company} specifically.
-The fact is, I want to work.
-
-I am 45, self taught programmer and I have a family to support.
-That's my drive and it's not weak.
-
-Here is my latest project https://github.com/Nireus79/Socrates
-There you can see my skills, methods, experience and way of thinking.
-If you want to work with me please contact me.
-I will be more than happy to provide more information.
-
-Themis
-
 AI Systems Engineer focused on multi-agent architectures, RAG pipelines, backend infrastructure, and quantitative systems engineering.
 
 I'm Available for Freelance & Consulting & Code Reviews
