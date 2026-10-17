@@ -39,16 +39,27 @@ The libraries
 Each piece is a standalone PyPI package, so you can use only what you need.
 
 Library	What it does:
+
 [socratic-nexus](https://pypi.org/project/socratic-nexus/)	One interface to Claude, OpenAI, Google and Ollama
+
 [socratic-agents](https://pypi.org/project/socratic-agents/)	Specialized agents for dialogue, code, review and conflict detection
+
 [socratic-morality](https://pypi.org/project/socratic-morality/)	Constitutional governance and compliance checks
+
 [socratic-knowledge](https://pypi.org/project/socratic-knowledge/)	Knowledge management and semantic retrieval (RAG)
+
 [socratic-workflow](https://pypi.org/project/socratic-workflow/)	Sequential, parallel and branching workflows
+
 [socratic-conflict](https://pypi.org/project/socratic-conflict/)	Conflict detection and Socratic resolution
+
 [socratic-maturity](https://pypi.org/project/socratic-maturity/)	Maturity tracking across project phases
+
 [socratic-learning](https://pypi.org/project/socratic-learning/)	Learning loops for agents
+
 [socratic-analyzer](https://pypi.org/project/socratic-analyzer/)	Code and quality analysis
+
 [socratic-performance](https://pypi.org/project/socratic-performance/)	Monitoring and caching
+
 [socratic-docs](https://pypi.org/project/socratic-docs/)	Documentation generation
 
 What I'm investigating
