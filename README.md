@@ -13,25 +13,19 @@ We assume context is shared when it often isn't. When context is an undefined va
 Socrates' answer was don't tell, ask: declare you don't understand, ask for a definition, test it against exceptions, ask for a better one, repeat until both sides mean the same thing. I turn that loop into software.
 
 Two settings, one method
-Socrates: human ↔ AI
-
+[Socrates](https://github.com/Nireus79/Socrates): human ↔ AI
 A multi-agent platform that clarifies a project before anything is built. It asks structured questions across business context, constraints, requirements and priorities, extracts the answers into explicit context, flags conflicts (for example, real-time updates against a small budget), and tracks how mature that understanding is across discovery, analysis, design and implementation. When it's ready, it generates the specification.
 
 Python, FastAPI, ChromaDB, PostgreSQL/SQLite, Docker; works with Claude, OpenAI, Google and Ollama
 Status: v0.2.0, alpha testing
 
-https://github.com/Nireus79/Socrates
-
-Μώλυ (Moly): human ↔ human
-
+[Μώλυ (Moly)](https://github.com/Nireus79/Moly): human ↔ human
 A communication coach that applies the same questioning before you send a message: what's missing from the context, how the other person sees it, and which assumptions you're making.
 
 Go backend, local web interface and browser extension
 Local-first: encrypted local database; runs fully offline with Ollama, or with Claude/OpenAI if you prefer
 Detects crisis language and surfaces helplines (US/UK resources today, localization planned). Moly is a thinking aid, not a medical or crisis service.
 Status: beta
-
-https://github.com/Nireus79/Moly
 
 Beyond questions: principles and systemic quality
 
@@ -44,19 +38,17 @@ The libraries
 Each piece is a standalone PyPI package, so you can use only what you need.
 
 Library	What it does
-socratic-nexus	One interface to Claude, OpenAI, Google and Ollama
-socratic-agents	Specialized agents for dialogue, code, review and conflict detection
-socratic-morality	Constitutional governance and compliance checks
-socratic-knowledge	Knowledge management and semantic retrieval (RAG)
-socratic-workflow	Sequential, parallel and branching workflows
-socratic-conflict	Conflict detection and Socratic resolution
-socratic-maturity	Maturity tracking across project phases
-socratic-learning	Learning loops for agents
-socratic-analyzer	Code and quality analysis
-socratic-performance	Monitoring and caching
-socratic-docs	Documentation generation
-
-https://pypi.org/user/Nireus79/
+[socratic-nexus](https://pypi.org/project/socratic-nexus/)	One interface to Claude, OpenAI, Google and Ollama
+[socratic-agents](https://pypi.org/project/socratic-agents/)	Specialized agents for dialogue, code, review and conflict detection
+[socratic-morality](https://pypi.org/project/socratic-morality/)	Constitutional governance and compliance checks
+[socratic-knowledge](https://pypi.org/project/socratic-knowledge/)	Knowledge management and semantic retrieval (RAG)
+[socratic-workflow](https://pypi.org/project/socratic-workflow/)	Sequential, parallel and branching workflows
+[socratic-conflict](https://pypi.org/project/socratic-conflict/)	Conflict detection and Socratic resolution
+[socratic-maturity](https://pypi.org/project/socratic-maturity/)	Maturity tracking across project phases
+[socratic-learning](https://pypi.org/project/socratic-learning/)	Learning loops for agents
+[socratic-analyzer](https://pypi.org/project/socratic-analyzer/)	Code and quality analysis
+[socratic-performance](https://pypi.org/project/socratic-performance/)	Monitoring and caching
+[socratic-docs](https://pypi.org/project/socratic-docs/)	Documentation generation
 
 What I'm investigating
 Does asking clarifying questions before generation reduce specification errors and rework compared with one-shot prompting?
@@ -80,7 +72,7 @@ LLM integration across Claude, OpenAI, Google and Ollama
 Retrieval (RAG) pipelines
 Docker deployment and API design
 
-📧 Nireus79@proton.me · GitHub Sponsors · PyPI
+📧 Nireus79@proton.me · GitHub Sponsors · [PyPI](https://pypi.org/user/Nireus79/)
 
 Code reviews, bug reports and pull requests are welcome.
 
