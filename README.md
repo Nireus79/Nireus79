@@ -12,7 +12,8 @@ We assume context is shared when it often isn't. When context is an undefined va
 
 Socrates' answer was don't tell, ask: declare you don't understand, ask for a definition, test it against exceptions, ask for a better one, repeat until both sides mean the same thing. I turn that loop into software.
 
-Two settings, one method
+Two settings, one method:
+
 [Socrates](https://github.com/Nireus79/Socrates): human ↔ AI
 A multi-agent platform that clarifies a project before anything is built. It asks structured questions across business context, constraints, requirements and priorities, extracts the answers into explicit context, flags conflicts (for example, real-time updates against a small budget), and tracks how mature that understanding is across discovery, analysis, design and implementation. When it's ready, it generates the specification.
 
@@ -37,7 +38,7 @@ The libraries
 
 Each piece is a standalone PyPI package, so you can use only what you need.
 
-Library	What it does
+Library	What it does:
 [socratic-nexus](https://pypi.org/project/socratic-nexus/)	One interface to Claude, OpenAI, Google and Ollama
 [socratic-agents](https://pypi.org/project/socratic-agents/)	Specialized agents for dialogue, code, review and conflict detection
 [socratic-morality](https://pypi.org/project/socratic-morality/)	Constitutional governance and compliance checks
