@@ -69,7 +69,7 @@ Constitutional AI as a security framework
 Why greedy algorithms corrupt systems, and how to fix them
 Conflict resolution between AI agents
 
-Everything lives at hermesoftware.wordpress.com.
+Everything lives at [hermesoftware.wordpress.com.](https://hermesoftware.wordpress.com/)
 
 Work with me
 
