@@ -20,7 +20,7 @@ A multi-agent platform that clarifies a project before anything is built. It ask
 Python, FastAPI, ChromaDB, PostgreSQL/SQLite, Docker; works with Claude, OpenAI, Google and Ollama
 Status: v0.2.0, alpha testing
 
-→ github.com/Nireus79/Socrates
+https://github.com/Nireus79/Socrates
 
 Μώλυ (Moly): human ↔ human
 
@@ -31,7 +31,7 @@ Local-first: encrypted local database; runs fully offline with Ollama, or with C
 Detects crisis language and surfaces helplines (US/UK resources today, localization planned). Moly is a thinking aid, not a medical or crisis service.
 Status: beta
 
-→ github.com/Nireus79/Moly
+https://github.com/Nireus79/Moly
 
 Beyond questions: principles and systemic quality
 
@@ -55,6 +55,7 @@ socratic-learning	Learning loops for agents
 socratic-analyzer	Code and quality analysis
 socratic-performance	Monitoring and caching
 socratic-docs	Documentation generation
+
 https://pypi.org/user/Nireus79/
 
 What I'm investigating
