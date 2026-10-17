@@ -1,4 +1,4 @@
-Building software that asks better questions
+<b>Building software that asks better questions</b>
 
 Most breakdowns in communication, between people and between people and AI, come from context nobody defined. I build tools that define it first, using the Socratic method.
 
@@ -12,7 +12,7 @@ We assume context is shared when it often isn't. When context is an undefined va
 
 Socrates' answer was don't tell, ask: declare you don't understand, ask for a definition, test it against exceptions, ask for a better one, repeat until both sides mean the same thing. I turn that loop into software.
 
-Two settings, one method:
+<b>Two settings, one method:</b>
 
 [Socrates](https://github.com/Nireus79/Socrates): human ↔ AI
 A multi-agent platform that clarifies a project before anything is built. It asks structured questions across business context, constraints, requirements and priorities, extracts the answers into explicit context, flags conflicts (for example, real-time updates against a small budget), and tracks how mature that understanding is across discovery, analysis, design and implementation. When it's ready, it generates the specification.
