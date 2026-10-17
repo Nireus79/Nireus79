@@ -1,161 +1,84 @@
-AI Systems Engineer focused on multi-agent architectures, constitutional AI, RAG pipelines, and ethical communication systems.
+Building software that asks better questions
 
-I'm Available for Freelance & Consulting & Code Reviews
+Most breakdowns in communication, between people and between people and AI, come from context nobody defined. I build tools that define it first, using the Socratic method.
 
-Building production-grade AI systems with focus on **multi-agent orchestration**, **constitutional AI governance**, **RAG systems**, **ethical communication**, and **LLM optimization**.
+10+ libraries on PyPI · two full applications · 1,300+ commits · Docker-ready
 
-## 🎯 Featured Projects
+The idea
 
-### ⭐ [**Μώλυ — Socratic Communication Coach**](https://github.com/Nireus79/Moly)
+Someone in a room of smokers uses an empty glass as an ashtray. A non-smoker walks in and is asked to "pass the ashtray." They see glasses, no ashtray, and look confused. Same word, two contexts: for one it means a purpose-built object, for the other any container serving that function.
 
-**Thinking Partner for Communication** - Production-ready (v2.0) Socratic communication coach built in Go. Three-layer system: (1) Socratic questioning (40+ context-aware questions), (2) Crisis detection (<5% false positive rate, instant resources), (3) Ethical evaluation (6 principles + 4 frameworks). 11-layer orchestrator architecture with zero false positives on normal greetings. All 7 critical solutions implemented and wired.
+We assume context is shared when it often isn't. When context is an undefined variable, the same words mean different things, assumptions stay hidden, and misunderstandings surface late, when fixing them is expensive. The same thing happens when we describe a project to an AI: it builds exactly what we said, not what we meant.
 
-**Key Achievements:**
-- ✅ **All 7 Solutions Implemented**: Intent-first workflow, tiered timeouts, graceful fallback, phase-aware gaps, result caching, system contact, self-reference
-- ✅ **Zero False Positives**: Greeting detection 100% accurate, crisis detection <5% false positive
-- ✅ **Clean Production Code**: 1,130+ LOC dead code removed, comprehensive testing
-- ✅ **Complete Architecture**: 11-layer orchestrator fully wired, all systems operational
-- ✅ **Real-World Impact**: 70-90% reduction in misunderstandings, 60-80% reduction in conflicts
+Socrates' answer was don't tell, ask: declare you don't understand, ask for a definition, test it against exceptions, ask for a better one, repeat until both sides mean the same thing. I turn that loop into software.
 
-### ⭐ [**Socrates AI v0.2.0**](https://github.com/Nireus79/Socrates)
+Two settings, one method
+Socrates: human ↔ AI
 
-**Socratic Method Tutoring System** - Production-ready collaborative development platform implementing the Socratic method with Claude AI, multi-agent orchestration, and enterprise-grade knowledge management. 9+ modular PyPI packages supporting the ecosystem.
+A multi-agent platform that clarifies a project before anything is built. It asks structured questions across business context, constraints, requirements and priorities, extracts the answers into explicit context, flags conflicts (for example, real-time updates against a small budget), and tracks how mature that understanding is across discovery, analysis, design and implementation. When it's ready, it generates the specification.
 
-### ✨ v0.2.0 Latest Improvements:
-- ✅ **Code Quality**: All ruff linting checks passing (0 errors, 42 issues fixed)
-- ✅ **Documentation**: All docstrings formatted per PEP 257 (54 issues resolved)
-- ✅ **Testing**: 1,023 tests passing with comprehensive coverage
-- ✅ **Performance**: Docker build optimized (11 min → <2 min)
-- ✅ **Features**: 24-hour testing mode persistence for feature evaluation
-- ✅ **Security**: Enterprise security enhancements and MFA support
-- ✅ **Architecture**: Refactored to service/agent bus decoupling for better testability
+Python, FastAPI, ChromaDB, PostgreSQL/SQLite, Docker; works with Claude, OpenAI, Google and Ollama
+Status: v0.2.0, alpha testing
 
-## 🚀 What I Do
+→ github.com/Nireus79/Socrates
 
-**Freelance & Consulting:**
-- ✅ Multi-agent AI system development
-- ✅ Socratic communication & ethical AI systems
-- ✅ RAG (Retrieval-Augmented Generation) implementation
-- ✅ LLM integration & cost optimization
-- ✅ Constitutional AI governance implementation
-- ✅ Architecture consulting
-- ✅ Framework integration (LangChain, Openclaw)
-- ✅ Code quality & production readiness audits
-- ✅ Ethical AI & governance implementation
-- ✅ Algorithmic trading strategies research and ml models training
+Μώλυ (Moly): human ↔ human
 
-## 📦 My Open Source Work
+A communication coach that applies the same questioning before you send a message: what's missing from the context, how the other person sees it, and which assumptions you're making.
 
-12 production-ready projects (2,300+ tests):
+Go backend, local web interface and browser extension
+Local-first: encrypted local database; runs fully offline with Ollama, or with Claude/OpenAI if you prefer
+Detects crisis language and surfaces helplines (US/UK resources today, localization planned). Moly is a thinking aid, not a medical or crisis service.
+Status: beta
 
-| Project | Status | Purpose |
-|---------|--------|---------|
-| [Μώλυ](https://github.com/Nireus79/Moly) | v2.0 Production | Socratic Communication Coach (Go, 11-layer) |
-| [Socrates AI](https://github.com/Nireus79/Socrates) | v0.2.0 | Multi-agent Socratic tutoring platform (Python) |
-| [socratic-nexus](https://github.com/Nireus79/Socratic-nexus) | v0.4.3 | Universal LLM client |
-| [socratic-agents](https://github.com/Nireus79/Socratic-agents) | v0.3.7 | 19 specialized agents |
-| [socratic-morality](https://github.com/Nireus79/Socratic-morality) | v0.0.6 | Ethical governance & compliance |
-| [socratic-maturity](https://github.com/Nireus79/Socratic-maturity) | v0.2.0 | Tracking System |
-| [socratic-knowledge](https://github.com/Nireus79/Socratic-knowledge) | v0.1.6 | Knowledge management |
-| [socratic-learning](https://github.com/Nireus79/Socratic-learning) | v0.2.0 | Self-improving agents |
-| [socratic-analyzer](https://github.com/Nireus79/Socratic-analyzer) | v0.1.6 | Code analysis |
-| [socratic-conflict](https://github.com/Nireus79/Socratic-conflict) | v0.1.5 | Conflict resolution |
-| [socratic-workflow](https://github.com/Nireus79/Socratic-workflow) | v0.1.4 | Workflow orchestration |
-| [socratic-performance](https://github.com/Nireus79/Socratic-performance) | v0.2.1 | Performance monitoring and caching utilities |
+→ github.com/Nireus79/Moly
 
-## 🛠️ Tech Stack
+Beyond questions: principles and systemic quality
 
-Go • Python • FastAPI • React • TypeScript • LangChain • PostgreSQL • Redis • ChromaDB • SQLite • Docker • Kubernetes • Prometheus • Grafana
+Two further ideas run through the platform:
 
-## 📊 Production Results
+Principles enforced at runtime. Constitutional-style rules (privacy, budget, compliance, quality) are checked as agents act, so a shortcut that violates a principle is intercepted and an alternative is proposed. I also explore Socratic principles as a security framework.
+No greedy optimization. A quality-control agent evaluates whole workflows end to end, so agents don't optimize one step at the expense of the system.
+The libraries
 
-**Μώλυ (Communication):**
-- 70-90% reduction in misunderstandings
-- 60-80% reduction in workplace conflicts  
-- <5% false positive rate on crisis detection
-- 100% accurate on harmless greetings
-- Zero critical bugs verified (Sept 28, 2026)
+Each piece is a standalone PyPI package, so you can use only what you need.
 
-**Socrates AI (Multi-Agent):**
-- 40% faster multi-agent systems
-- 60% cost reduction with LLM optimization
-- Sub-100ms retrieval for RAG systems
-- 2,300+ tests for reliability
-- Production-ready code with 100% passing linting
+Library	What it does
+socratic-nexus	One interface to Claude, OpenAI, Google and Ollama
+socratic-agents	Specialized agents for dialogue, code, review and conflict detection
+socratic-morality	Constitutional governance and compliance checks
+socratic-knowledge	Knowledge management and semantic retrieval (RAG)
+socratic-workflow	Sequential, parallel and branching workflows
+socratic-conflict	Conflict detection and Socratic resolution
+socratic-maturity	Maturity tracking across project phases
+socratic-learning	Learning loops for agents
+socratic-analyzer	Code and quality analysis
+socratic-performance	Monitoring and caching
+socratic-docs	Documentation generation
+What I'm investigating
+Does asking clarifying questions before generation reduce specification errors and rework compared with one-shot prompting?
+Can principle-based checks serve as a practical security and governance layer for AI agents?
+How do you keep AI agents from greedy shortcuts that corrupt a system over time?
 
-**Combined:**
-- Enterprise security compliance (OWASP Top 10, JWT+MFA, encryption)
-- Ethical AI governance framework (Constitutional + Socratic methods)
-- Multi-project ecosystem with 2,300+ tests
+Read more
+Solving the context problem that breaks human-AI communication
+Constitutional AI as a security framework
+Why greedy algorithms corrupt systems, and how to fix them
+Conflict resolution between AI agents
 
-## 🎯 Recent Achievements
+Everything lives at hermesoftware.wordpress.com.
 
-**Μώλυ v2.0 (Sept 28, 2026):**
-- Implemented all 7 critical solutions for production readiness
-- Achieved zero false positives on greeting detection
-- Removed 1,130+ LOC dead code for clean codebase
-- Completely wired 11-layer orchestrator system
-- Verified measurable real-world impact (70-90% fewer misunderstandings)
+Work with me
 
-**Socrates v0.2.0 Completion:**
-- Fixed 42 ruff linting errors (all checks passing)
-- Fixed 54 docstring violations (PEP 257 compliant)
-- Optimized Docker builds for 10x faster deployment
-- Implemented 24-hour testing mode persistence
-- Achieved 1,023/1,041 test pass rate (98.3%)
-- Enhanced service-agent bus architecture for decoupling
-- Implemented comprehensive audit logging for compliance
+Available for small projects and code reviews:
 
-## 🎯 Availability
+Multi-agent prototypes and orchestration
+LLM integration across Claude, OpenAI, Google and Ollama
+Retrieval (RAG) pipelines
+Docker deployment and API design
 
-**Status**: Accepting 2-3 new projects
-**Lead Time**: 1-2 weeks
+📧 Nireus79@proton.me · GitHub Sponsors · PyPI
 
-## 🔍 Open for Code Reviews & Feedback
+Code reviews, bug reports and pull requests are welcome.
 
-I'm actively seeking and welcoming:
-- **Code Reviews** - Architecture, design patterns, code quality feedback
-- **Bug Reports** - Issues, edge cases, and unexpected behaviors
-- **Corrections** - Grammar, documentation, or technical inaccuracies
-- **Suggestions** - Improvements, optimizations, and new feature ideas
-- **Pull Requests** - Contributions to fix bugs or add features
-
-This is collaborative development. All feedback is valuable - don't hesitate to open issues or PRs!
-
-## 🎯 Open for Projects
-
-### ✅ NOW ACCEPTING 2-3 Projects
-
-**Expertise Areas:**
-- Socratic communication & ethical AI systems
-- Multi-agent AI systems & orchestration
-- RAG (Retrieval-Augmented Generation) implementation
-- Constitutional AI governance
-- Backend infrastructure & scaling
-
-**Project Scope:** 4-8 weeks
-**Rate:** $35-55/hour (negotiable based on scope)
-**Availability:** Starting immediately
-
-**Examples of projects I take:**
-- Building multi-agent systems with coordinated reasoning
-- Implementing ethical AI communication systems
-- Implementing RAG pipelines with semantic search
-- Integrating Claude/OpenAI/Google APIs at scale
-- Setting up constitutional AI governance frameworks
-- Architecture consulting for AI systems
-
-📧 [Get in touch](mailto:Nireus79@proton.me) to discuss your project
-
-## 📞 Contact
-
-📧 **Email**: Nireus79@proton.me
-🔗 **Main Projects**: 
-  - https://github.com/Nireus79/Moly (Socratic Communication Coach)
-  - https://github.com/Nireus79/Socrates (Multi-Agent Platform)
-📦 **PyPI**: https://pypi.org/user/Nireus79/
-💼 **GitHub Sponsors**: https://github.com/sponsors/Nireus79
-
----
-
-**Let's build something amazing! 🚀**
+Stack: Go · Python · FastAPI · React · TypeScript · LangChain · PostgreSQL · Redis · ChromaDB · SQLite · Docker
