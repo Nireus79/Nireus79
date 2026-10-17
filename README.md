@@ -55,6 +55,8 @@ socratic-learning	Learning loops for agents
 socratic-analyzer	Code and quality analysis
 socratic-performance	Monitoring and caching
 socratic-docs	Documentation generation
+https://pypi.org/user/Nireus79/
+
 What I'm investigating
 Does asking clarifying questions before generation reduce specification errors and rework compared with one-shot prompting?
 Can principle-based checks serve as a practical security and governance layer for AI agents?
