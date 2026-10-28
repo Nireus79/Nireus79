@@ -31,23 +31,21 @@ Status: early build, not released yet
 
 Research: [Socrates (proof of concept)](https://github.com/Nireus79/Socrates) is the earlier Python multi-agent platform that clarifies a project before anything is built. It is not maintained as a product.
 
-Beyond questions: principles and systemic quality
+Two further ideas, explored in the libraries and the research prototype
 
-Two further ideas run through the libraries and the research prototype:
-
-Principles enforced at runtime. Constitutional-style rules (privacy, budget, compliance, quality) are checked as agents act, so a shortcut that violates a principle is intercepted and an alternative is proposed. I also explore Socratic principles as a security framework.
-No greedy optimization. A quality-control agent evaluates whole workflows end to end, so agents don't optimize one step at the expense of the system.
+Rules checked while agents act. Principles such as privacy, budget and quality are written as rules and checked at each step, so a shortcut that breaks one is stopped and an alternative is proposed. I also explore Socratic principles as a security framework.
+No greedy optimization. A quality-control agent looks at a whole workflow, so agents do not optimize one step at the expense of the system.
 The libraries
 
-Each piece is a standalone PyPI package, so you can use only what you need.
+Each is a separate PyPI package. They are in early development; the research prototype that uses them is not maintained as a product.
 
 Library	What it does:
 
 [socratic-nexus](https://pypi.org/project/socratic-nexus/)	One interface to Claude, OpenAI, Google and Ollama
 
-[socratic-agents](https://pypi.org/project/socratic-agents/)	Specialized agents for dialogue, code, review and conflict detection
+[socratic-agents](https://pypi.org/project/socratic-agents/)	Agents for dialogue, code, review and conflict detection
 
-[socratic-morality](https://pypi.org/project/socratic-morality/)	Constitutional governance and compliance checks
+[socratic-morality](https://pypi.org/project/socratic-morality/)	Rules for agent behaviour, checked at runtime
 
 [socratic-knowledge](https://pypi.org/project/socratic-knowledge/)	Knowledge management and semantic retrieval (RAG)
 
@@ -77,6 +75,10 @@ Why greedy algorithms corrupt systems, and how to fix them
 Conflict resolution between AI agents
 
 Articles and background: [hermesoftware.wordpress.com](https://hermesoftware.wordpress.com/). Products and downloads: [nireus79.github.io](https://nireus79.github.io/).
+
+How I work
+
+I am an independent programmer in Greece. I build with AI coding assistants (Claude Code). I design the products, review the code and test it.
 
 Work with me
 
