@@ -4,13 +4,13 @@
 
 **[Socrates](https://nireus79.github.io/Socrates-ai/)**: a conversation with four artificial Greek philosophers (Socrates, Diogenes, Plato, Aristotle) who ask hard questions instead of giving verdicts. A Go engine, plain-JavaScript screens, a desktop window and an Android app. Free beta for Windows, Linux and Android, in English and Greek. [Code](https://github.com/Nireus79/Socrates-ai)
 
-**[Moly](https://nireus79.github.io/Moly/)**: a communication coach that asks the one question that matters before you send a message. Browser extension (Firefox, Edge), desktop and Android app, on a Go backend. Local-first with encrypted storage. Free and open source. [Code](https://github.com/Nireus79/Moly)
+**[Moly](https://nireus79.github.io/Moly/)**: a communication coach that asks the one question that matters before you send a message. A browser extension (on Firefox Add-ons), a desktop app and an Android beta, on a Go backend. Local-first with encrypted storage. Free and open source. [Code](https://github.com/Nireus79/Moly)
 
-**[Socrates prototype](https://github.com/Nireus79/Socrates)**: the earlier Python multi-agent platform (about 57,000 lines, around 110 test files), split into [13+ packages on PyPI](https://pypi.org/user/Nireus79/) such as `socratic-nexus` (one client for Claude, OpenAI, Google and Ollama) and `socratic-agents`. Research code, not maintained as a product.
+**[Socrates prototype](https://github.com/Nireus79/Socrates)**: the earlier Python multi-agent platform, split into separate [packages on PyPI](https://pypi.org/user/Nireus79/) such as `socratic-nexus` (one client for Claude, OpenAI, Google and Ollama) and `socratic-agents`. Research code, not maintained as a product.
 
 ## How I work
 - Safety first: every message is judged and every reply is checked before it is shown.
-- Tests that prove themselves: each protection is broken on purpose to confirm a test catches it. An independent code review of the safety path found nine issues, all fixed.
+- Tests that prove themselves: each protection is broken on purpose to confirm a test catches it. A code review of the safety path, done with an AI review tool, found nine issues; all were fixed.
 - Privacy by design: your own provider key, encrypted local storage, profile export and deletion.
 
 ## Work with me
