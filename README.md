@@ -10,10 +10,10 @@
 
 ## How I work
 - Safety first: every message is judged and every reply is checked before it is shown.
-- Tests that prove themselves: each protection is broken on purpose to confirm a test catches it. A code review of the safety path, done with an AI review tool, found nine issues; all were fixed.
+- Tests that prove themselves: each protection is broken on purpose to confirm a test catches it. A code review of the safety path, done with an AI review tool, found nine issues; all were fixed. [Read the sample review](https://github.com/Nireus79/ai-safety-review-sample).
 - Privacy by design: your own provider key, encrypted local storage, profile export and deletion.
 
 ## Work with me
-Fixed-price work: AI-feature audits, safe LLM integration, and taking web apps to Android or desktop (signing, F-Droid, stores). Contact: Hermes_creative@proton.me · [LinkedIn](https://www.linkedin.com/in/efthimios-angelopoulos-ba4b25417/) · [PyPI](https://pypi.org/user/Nireus79/) · [hermesoftware.wordpress.com](https://hermesoftware.wordpress.com/)
+Fixed-price work: AI-feature audits, safe LLM integration, and taking web apps to Android or desktop (signing, F-Droid, stores). Open to part-time and contract work. See what an audit looks like: [sample safety review](https://github.com/Nireus79/ai-safety-review-sample). Contact: Hermes_creative@proton.me · [LinkedIn](https://www.linkedin.com/in/efthimios-angelopoulos-ba4b25417/) · [PyPI](https://pypi.org/user/Nireus79/) · [hermesoftware.wordpress.com](https://hermesoftware.wordpress.com/)
 
 *Go · Python · JavaScript · Claude and OpenAI APIs · SQLite · Android · Wails*
